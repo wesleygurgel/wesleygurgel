@@ -1,5 +1,5 @@
 <h1 align="center">BEM VINDO! 👋</h2>
-![Wesley Gurgel GitHub stats](https://github-readme-stats.vercel.app/api?username=wesleygurgel&show_icons=true&theme=radical)
+![wesleygurgel' github stats](https://github-readme-stats.vercel.app/api?username=wesleygurgel&count_private=true&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleygurgel&exclude_repo=ITP,infopolitizado&theme=tokyonight&locale=pt-br)](https://github.com/wesleygurgel/github-readme-stats)
 

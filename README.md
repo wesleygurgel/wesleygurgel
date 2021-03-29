@@ -1,7 +1,8 @@
-### Hi there 👋
+<h1 align="center">BEM VINDO! 👋</h2>
+![Wesley Gurgel GitHub stats](https://github-readme-stats.vercel.app/api?username=wesleygurgel&show_icons=true&theme=radical)
 
-<!--
-**wesleygurgel/wesleygurgel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleygurgel&exclude_repo=ITP,infopolitizado&theme=tokyonight&locale=pt-br)](https://github.com/wesleygurgel/github-readme-stats)
+
 
 Here are some ideas to get you started:
 

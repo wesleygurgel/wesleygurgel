@@ -1,19 +1,19 @@
 <h1 align="center">BEM VINDO! 👋</h1>
 
+# 
+
 ![wesleygurgel' github stats](https://github-readme-stats.vercel.app/api?username=wesleygurgel&count_private=true&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true)
+
+# Linguagens mais utilizadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleygurgel&exclude_repo=ITP,infopolitizado&theme=tokyonight&locale=pt-br)](https://github.com/wesleygurgel/)
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wesleygurgel)
+# Coisas sobre mim
 
-Here are some ideas to get you started:
+- 🔭 Atualmente trabalho no TRT 21ª Região (Tribunal Regional do Trabalho) como desenvolvedor <strong>(ESTÁGIO)</strong>;
+- 🌱 Se aprimorando a cada dia mais na linguagem Python, sempre em busca de experiências que possam me ajudar a conquistar meu objetivo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Formas de entrar em contato:
+- 📫 wesleygurgel27@gmail.com
+- 💬 https://t.me/wesleygurgel
+

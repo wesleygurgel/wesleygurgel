@@ -10,7 +10,7 @@
 
 # Coisas sobre mim
 
-- 🔭 Atualmente trabalho no TRT 21ª Região (Tribunal Regional do Trabalho) como desenvolvedor <strong>(ESTÁGIO)</strong>;
+- 🔭 Atualmente trabalho na [Resale](https://resale.com.br/) como desenvolvedor;
 - 🌱 Se aprimorando a cada dia mais na linguagem Python, sempre em busca de experiências que possam me ajudar a conquistar meu objetivo.
 
 # Formas de entrar em contato:

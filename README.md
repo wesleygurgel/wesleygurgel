@@ -11,7 +11,7 @@
 # Coisas sobre mim
 
 - 🔭 Atualmente trabalho na [Resale](https://resale.com.br/) como desenvolvedor;
-- 🌱 Se aprimorando a cada dia mais na linguagem Python, sempre em busca de experiências que possam me ajudar a conquistar meu objetivo.
+- 🌱 Se aprimorando a cada dia mais na linguagem Python, sempre em busca de experiências que possam me ajudar a conquistar meu objetivo. Sempre aberto a novas possibilidades, vamos sonhar juntos :)
 
 # Formas de entrar em contato:
 - 📫 wesleygurgel27@gmail.com

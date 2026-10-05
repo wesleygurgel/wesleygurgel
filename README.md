@@ -1,3 +1,15 @@
+<p align="center">
+  <img src="assets/terminal.svg" alt="Wesley Gurgel, engenheiro de software desde 2018, trabalhando em dupla com IA. Princípios de trabalho, fundamentos de arquitetura, ferramentas e contato." width="900">
+</p>
+
+<p align="center">
+  <a href="mailto:wesleygurgel27@gmail.com"><img src="https://img.shields.io/badge/email-wesleygurgel27%40gmail.com-e8a23a?style=for-the-badge&labelColor=14110f" alt="Email"></a>
+  <a href="https://t.me/wesleygurgel"><img src="https://img.shields.io/badge/telegram-%40wesleygurgel-e8a23a?style=for-the-badge&labelColor=14110f" alt="Telegram"></a>
+</p>
+
+<details>
+<summary>Versão em texto</summary>
+
 ```bash
 $ whoami
 Wesley Gurgel · engenheiro de software
@@ -12,7 +24,6 @@ $ cat como-trabalho.md
 4. Pequeno e verificável. Entregas curtas, com testes, para errar barato.
 
 $ cat fundamentos.md
-# Linguagem e framework mudam. Estes fundamentos ficam.
 arquitetura  monólito modular · hexagonal · DDD · event-driven · ADRs
 padrões      design patterns · SOLID · clean code · refatoração segura
 dados        modelagem relacional · consultas e índices · migrações sem downtime
@@ -20,15 +31,9 @@ sistemas     APIs e contratos · concorrência e assíncrono · filas · observa
 qualidade    testes automatizados · revisão de código · CI/CD
 
 $ ls ferramentas/
-# o que uso para aplicar os fundamentos acima, e que troco quando o problema pede
 Python  TypeScript  JavaScript  PHP  SQL
 FastAPI  Django  SQLAlchemy  Laravel  Angular  React
 Claude Code  agentes  MCP  Selenium
-
-$ contato --listar
-email     wesleygurgel27@gmail.com
-telegram  t.me/wesleygurgel
 ```
 
-[![Email](https://img.shields.io/badge/email-wesleygurgel27%40gmail.com-e8a23a?style=flat-square&labelColor=14110f)](mailto:wesleygurgel27@gmail.com)
-[![Telegram](https://img.shields.io/badge/telegram-%40wesleygurgel-e8a23a?style=flat-square&labelColor=14110f)](https://t.me/wesleygurgel)
+</details>

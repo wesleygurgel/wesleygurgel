@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="765" viewBox="0 0 900 765" role="img" aria-labelledby="t d">
+<title id="t">Terminal de Wesley Gurgel</title>
+<desc id="d">Engenheiro de software desde 2018, trabalha em dupla com IA. Princípios de trabalho, fundamentos (arquitetura, padrões, dados, sistemas, qualidade), ferramentas e contato.</desc>
+<style>
+text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace;font-size:14px;fill:#e9e1d3;white-space:pre}
+.a{fill:#e8a23a}.d{fill:#8c8272}.g{fill:#8fbf7a}.b{font-weight:700}
+.logo{font-size:32px;font-weight:800;fill:#e8a23a;letter-spacing:5px}
+</style>
+<rect width="900" height="765" rx="12" fill="#14110f"/>
+<rect width="900" height="36" rx="12" fill="#1d1915"/><rect y="24" width="900" height="12" fill="#1d1915"/>
+<circle cx="22" cy="18" r="6" fill="#e8a23a"/><circle cx="42" cy="18" r="6" fill="#4a4237"/><circle cx="62" cy="18" r="6" fill="#4a4237"/>
+<text x="450" y="23" text-anchor="middle" class="d" style="font-size:12px">wesleygurgel — zsh</text>
+<text x="36" y="74" class="logo">WESLEY GURGEL</text>
+<text x="36" y="116" class="a">wesley@dev</text>
+<text x="121" y="116" class="d">:</text>
+<text x="129" y="116" class="d">~</text>
+<text x="143" y="116" class="d">$</text>
+<text x="161" y="116" class="">whoami</text>
+<text x="36" y="139" class="b">Wesley Gurgel · engenheiro de software</text>
+<text x="36" y="162" class="">No mundo do desenvolvimento desde 2018 · UFRN, Bacharelado em TI (Eng. de Software)</text>
+<text x="36" y="185" class="">Transformo problemas de negócio em software que roda em produção,</text>
+<text x="36" y="208" class="">trabalhando em dupla com IA do desenho da solução ao deploy.</text>
+<text x="36" y="242" class="a">wesley@dev</text>
+<text x="121" y="242" class="d">:</text>
+<text x="129" y="242" class="d">~</text>
+<text x="143" y="242" class="d">$</text>
+<text x="161" y="242" class="">cat como-trabalho.md</text>
+<text x="36" y="265" class="a">1.</text>
+<text x="62" y="265" class=""><tspan class="a">Eu decido, a IA acelera.</tspan><tspan> Defino o problema, a arquitetura e o critério de pronto.</tspan></text>
+<text x="36" y="288" class="a">2.</text>
+<text x="62" y="288" class=""><tspan class="a">Contexto antes de código.</tspan><tspan> Specs, regras do projeto e exemplos para a IA.</tspan></text>
+<text x="36" y="311" class="a">3.</text>
+<text x="62" y="311" class=""><tspan class="a">Nada vai sem revisão.</tspan><tspan> Leio o diff, rodo os testes e valido o comportamento.</tspan></text>
+<text x="36" y="334" class="a">4.</text>
+<text x="62" y="334" class=""><tspan class="a">Pequeno e verificável.</tspan><tspan> Entregas curtas, com testes, para errar barato.</tspan></text>
+<text x="36" y="368" class="a">wesley@dev</text>
+<text x="121" y="368" class="d">:</text>
+<text x="129" y="368" class="d">~</text>
+<text x="143" y="368" class="d">$</text>
+<text x="161" y="368" class="">cat fundamentos.md</text>
+<text x="36" y="391" class="d"># Linguagem e framework mudam. Estes fundamentos ficam.</text>
+<text x="36" y="414" class="a">arquitetura</text>
+<text x="170" y="414" class="">monólito modular · hexagonal · DDD · event-driven · ADRs</text>
+<text x="36" y="437" class="a">padrões</text>
+<text x="170" y="437" class="">design patterns · SOLID · clean code · refatoração segura</text>
+<text x="36" y="460" class="a">dados</text>
+<text x="170" y="460" class="">modelagem relacional · consultas e índices · migrações sem downtime</text>
+<text x="36" y="483" class="a">sistemas</text>
+<text x="170" y="483" class="">APIs e contratos · concorrência e assíncrono · filas · observabilidade</text>
+<text x="36" y="506" class="a">qualidade</text>
+<text x="170" y="506" class="">testes automatizados · revisão de código · CI/CD</text>
+<text x="36" y="540" class="a">wesley@dev</text>
+<text x="121" y="540" class="d">:</text>
+<text x="129" y="540" class="d">~</text>
+<text x="143" y="540" class="d">$</text>
+<text x="161" y="540" class="">ls ferramentas/</text>
+<text x="36" y="563" class="d"># o que uso para aplicar os fundamentos acima, e que troco quando o problema pede</text>
+<text x="36" y="586" class="">Python  TypeScript  JavaScript  PHP  SQL</text>
+<text x="36" y="609" class="">FastAPI  Django  SQLAlchemy  Laravel  Angular  React</text>
+<text x="36" y="632" class="">Claude Code  agentes  MCP  Selenium</text>
+<text x="36" y="666" class="a">wesley@dev</text>
+<text x="121" y="666" class="d">:</text>
+<text x="129" y="666" class="d">~</text>
+<text x="143" y="666" class="d">$</text>
+<text x="161" y="666" class="">contato --listar</text>
+<text x="36" y="689" class="g">✓</text>
+<text x="60" y="689" class="a">email</text>
+<text x="170" y="689" class="">wesleygurgel27@gmail.com</text>
+<text x="36" y="712" class="g">✓</text>
+<text x="60" y="712" class="a">telegram</text>
+<text x="170" y="712" class="">t.me/wesleygurgel</text>
+<text x="36" y="735" class="a">wesley@dev</text>
+<text x="121" y="735" class="d">:</text>
+<text x="129" y="735" class="d">~</text>
+<text x="143" y="735" class="d">$</text>
+<rect x="161" y="721" width="9" height="17" fill="#e8a23a"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/></rect>
+</svg>
